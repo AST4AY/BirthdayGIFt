@@ -48,9 +48,6 @@ h1, h2, h4, h3, p {
     background-size: cover;
     margin: 0 auto;
 }
-#three{
-    width: 500px;
-}
 #one:hover {
     background-image: url("images/firstGif.webp");
 }
